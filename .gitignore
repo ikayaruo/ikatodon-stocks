@@ -165,3 +165,8 @@ typings/
 .serverless
 
 
+# jekyll
+jekyll/_site
+jekyll/.sass-cache
+jekyll/.jekyll-metadata
+jekyll/vendor/bundle
